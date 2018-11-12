@@ -3,8 +3,8 @@
 ## Data Science Specialization (JHU) -- 10 courses in total
 ### Course1: The Data Scientist's Toolbox
   * Week1
-  * Week2
-  * Week3
+  * Week2 Installing the Toolbox
+  * Week3 Conceptual Issues
   * Week4
 
 ## Applied Data Science with Python (UM) -- 5 courses in total
